@@ -38,7 +38,7 @@ currently: "Preparing for 2026-27 placement drives while shipping production-gra
 I'm a Cyber Security & Forensics specialist who builds full-stack, AI-integrated products end-to-end — from designing REST APIs and auth flows to engineering LLM prompts that return clean, structured output every time. I care about the boring-but-critical stuff: input validation, secure auth, and pipelines that don't break in production.
 
 <div align="center">
-  <img width="420" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+  <img width="1000" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
 
 <br/>
