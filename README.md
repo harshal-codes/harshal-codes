@@ -71,12 +71,7 @@ I'm a Cyber Security & Forensics specialist who builds full-stack, AI-integrated
 
 **Stack:** `FastAPI` `PostgreSQL/Supabase` `React` `JWT` `OpenRouter` `pdfplumber` `Vercel` `Railway`
 
-</td>
-<td width="50%" valign="top">
 
-
-
-</td>
 </tr>
 </table>
 
