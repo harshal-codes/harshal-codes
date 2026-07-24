@@ -18,7 +18,7 @@
 
 ## ⭐ About Me
 
-```yaml
+\`\`\`yaml
 name: "Harshal Pawar"
 role: "Final-Year B.Tech CSE (Cyber Security & Forensics) Student"
 university: "MIT-ADT University, Pune — Batch 2027 | CGPA: 8.85"
@@ -29,13 +29,15 @@ focus:
   - "Cybersecurity — log analysis, threat correlation, incident response"
 philosophy: "Build things that are useful, secure, and shipped — not just prototyped."
 currently: "Preparing for 2026-27 placement drives while shipping production-grade side projects."
-```
+\`\`\`
 
 I'm a Cyber Security & Forensics specialist who builds full-stack, AI-integrated products end-to-end — from designing REST APIs and auth flows to engineering LLM prompts that return clean, structured output every time. I care about the boring-but-critical stuff: input validation, secure auth, and pipelines that don't break in production.
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<div align="center">
+  <img width="420" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+</div>
 
-<br clear="right"/>
+<br/>
 
 ## 🏆 Certifications
 
@@ -71,7 +73,7 @@ I'm a Cyber Security & Forensics specialist who builds full-stack, AI-integrated
 
 **Stack:** `FastAPI` `PostgreSQL/Supabase` `React` `JWT` `OpenRouter` `pdfplumber` `Vercel` `Railway`
 
-
+</td>
 </tr>
 </table>
 
