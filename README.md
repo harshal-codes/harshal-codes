@@ -74,16 +74,7 @@ I'm a Cyber Security & Forensics specialist who builds full-stack, AI-integrated
 </td>
 <td width="50%" valign="top">
 
-### 🛰️ QR Shield — Malicious QR Code Detector
 
-**Problem:** QR codes are an increasingly common phishing/malware vector with no built-in trust signal.
-
-**What I built:**
-- Multi-factor **risk scoring engine** to flag malicious QR payloads before they're opened
-- Heuristic checks across URL structure, redirects, and payload patterns
-- Designed as a lightweight, extensible detection layer
-
-**Stack:** `Python` `Security Heuristics` `Risk Scoring`
 
 </td>
 </tr>
