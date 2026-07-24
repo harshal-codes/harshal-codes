@@ -18,18 +18,22 @@
 
 ## ⭐ About Me
 
-\`\`\`yaml
-name: "Harshal Pawar"
-role: "Final-Year B.Tech CSE (Cyber Security & Forensics) Student"
-university: "MIT-ADT University, Pune — Batch 2027 | CGPA: 8.85"
-location: "Pune, Maharashtra, India"
-focus:
+Name: "Harshal Pawar"
+
+"Final-Year B.Tech CSE (Cyber Security & Forensics) Student"
+
+University: "MIT-ADT University, Pune — Batch 2027 | CGPA: 8.85"
+
+Location: "Pune, Maharashtra, India"
+
+Focus:
   - "Generative AI product engineering (LLM APIs, prompt engineering)"
   - "Secure backend systems (FastAPI, REST APIs, JWT auth)"
   - "Cybersecurity — log analysis, threat correlation, incident response"
+    
 philosophy: "Build things that are useful, secure, and shipped — not just prototyped."
+
 currently: "Preparing for 2026-27 placement drives while shipping production-grade side projects."
-\`\`\`
 
 I'm a Cyber Security & Forensics specialist who builds full-stack, AI-integrated products end-to-end — from designing REST APIs and auth flows to engineering LLM prompts that return clean, structured output every time. I care about the boring-but-critical stuff: input validation, secure auth, and pipelines that don't break in production.
 
