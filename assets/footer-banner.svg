@@ -1,0 +1,25 @@
+<svg viewBox="0 0 1200 120" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradFooter" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#bb9af7"/>
+      <stop offset="30%" stop-color="#7aa2f7"/>
+      <stop offset="65%" stop-color="#3d59a1"/>
+      <stop offset="100%" stop-color="#1a1b27"/>
+    </linearGradient>
+    <linearGradient id="waveGradF1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="waveGradF2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.06"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="120" fill="url(#bgGradFooter)"/>
+
+  <path d="M0,20 C150,55 300,-10 450,20 C600,55 750,-10 900,20 C1000,42 1100,5 1200,20 L1200,0 L0,0 Z"
+        fill="url(#waveGradF1)"/>
+  <path d="M0,40 C180,70 320,10 480,40 C640,68 780,10 950,40 C1050,58 1120,30 1200,40 L1200,0 L0,0 Z"
+        fill="url(#waveGradF2)"/>
+</svg>
