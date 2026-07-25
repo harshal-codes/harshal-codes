@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=220&section=header&text=Harshal%20Pawar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security-First%20Full-Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=80050&lines=Final-Year+CSE+(Cyber+Security)+%40+MIT-ADT+University;Building+LLM-Powered+Products+%26+Secure+Systems;Prompt+Engineering+%7C+REST+APIs+%7C+Threat+Analysis;Shipped+Recruvo+%E2%80%94+AI+Resume+Screening+Platform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=900&lines=Final-Year+CSE+(Cyber+Security)+%40+MIT-ADT+University;Building+LLM-Powered+Products+%26+Secure+Systems;Prompt+Engineering+%7C+REST+APIs+%7C+Threat+Analysis;Shipped+Recruvo+%E2%80%94+AI+Resume+Screening+Platform" alt="Typing SVG" />
 </a>
 
 <br/>
