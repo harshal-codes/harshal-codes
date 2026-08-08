@@ -62,7 +62,7 @@ I'm a Cyber Security & Forensics specialist who builds full-stack, AI-integrated
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🤖 Recruvo — AI Resume Screening Portal
 
